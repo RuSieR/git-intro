@@ -6,4 +6,7 @@ It isn't what we say or think that define us, but what we do. Jane Austen
 
 Second test, to understan branchig.
 
+<<<<<<< HEAD
 Add some new text
+======
+
