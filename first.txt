@@ -6,4 +6,3 @@ It isn't what we say or think that define us, but what we do. Jane Austen
 
 Second test, to understan branchig.
 
-Ya me confundi, por no cambiar de branch, pero parece que ya tengo dos archivos diferentes
