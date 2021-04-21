@@ -6,6 +6,3 @@ It isn't what we say or think that define us, but what we do. Jane Austen
 
 Second test, to understan branchig.
 
-<<<<<<< HEAD
-Agrego una fecha que tiene que ser publicada inmediatamente en master.
-
